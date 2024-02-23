@@ -1,0 +1,2 @@
+# minipro
+college notification app
